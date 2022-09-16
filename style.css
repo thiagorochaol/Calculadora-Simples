@@ -4,7 +4,7 @@ body{
     text-align: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(../styles/universo4k.gif);
+    background-image: url(/img/universo4k.gif);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: top center;
