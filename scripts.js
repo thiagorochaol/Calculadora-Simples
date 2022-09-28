@@ -12,7 +12,7 @@ function calcular(n1, n2){
         
         case '-':
             calculo = (n1 - n2)
-            document.getElementById("resultado").innerHTML = `O resultado da soma de ${n1} - ${n2} é = ${calculo}`
+            document.getElementById("resultado").innerHTML = `O resultado da subtração de ${n1} - ${n2} é = ${calculo}`
         break
 
         case '*':
